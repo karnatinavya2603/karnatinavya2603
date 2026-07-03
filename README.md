@@ -1,4 +1,8 @@
 # Hi there! I'm Navya Karnati 👋
+
+<p align="center">
+  <img src="profile.jpg" alt="Navya Karnati" width="180" height="180" style="border-radius: 50%;" />
+</p>
 <p align="center">
   <img src="https://komarev.com/normal-badge.png?key=karnatinavya2603&style=flat-square&color=blue" alt="karnatinavya2603 visitor count" />
 </p>
